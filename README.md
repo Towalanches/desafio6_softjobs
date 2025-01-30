@@ -19,16 +19,16 @@ Asegúrate de configurar las siguientes variables en tu archivo `.env`:
 
 ### Validaciones de Roles y Lenguajes
 
-#Se agregaron validaciones de roles y de lenguajes de programación en base a el Frontend proporcionado como apoyo, ya que contenía solo 3 de cada uno, estos son los siguientes
+## Se agregaron validaciones de roles y de lenguajes de programación en base a el Frontend proporcionado como apoyo, ya que contenía solo 3 de cada uno, estos son los siguientes
 
-#Roles permitidos
+# Roles permitidos
 Al registrar un nuevo usuario, se valida que el rol del usuario sea uno de los siguientes:
 
 - `Full Stack Developer`
 - `Frontend Developer`
 - `Backend Developer`
 
-#Lenguajes permitidos 
+# Lenguajes permitidos 
 Al registrar un nuevo usuario, se valida que el lenguaje de programación del usuario sea uno de los siguientes
 - `JavaScript`
 - `Python`
